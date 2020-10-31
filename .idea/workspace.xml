@@ -28,8 +28,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b547d7ea-4442-4a12-afb6-a6c463b7311f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RyanWest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +72,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="masterDetails">
     <states>
